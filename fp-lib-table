@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ParaTNC-imported")(type "KiCad")(uri "${KIPRJMOD}/paratnc_cp.pretty")(options "")(descr ""))
+  (lib (name "battery_keystone")(type "KiCad")(uri "${KIPRJMOD}/battery_keystone1074")(options "")(descr ""))
+  (lib (name "phoneix-IMCV")(type "KiCad")(uri "${KIPRJMOD}/phoneix-contact____IMCV__1_5__3-G-3_5_RN_P20/1830870/KiCad")(options "")(descr ""))
+)
