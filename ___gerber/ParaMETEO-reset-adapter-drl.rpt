@@ -1,0 +1,27 @@
+Drill report for ParaMETEO-reset-adapter.kicad_pcb
+Created on pią, 28 lis 2025, 20:59:23
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'ParaMETEO-reset-adapter-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.381mm  0.0150"  (10 holes)
+    T2  0.635mm  0.0250"  (9 holes)
+    T3  1.000mm  0.0394"  (5 holes)
+    T4  1.200mm  0.0472"  (6 holes)
+    T5  2.000mm  0.0787"  (2 holes)
+    T6  2.100mm  0.0827"  (2 holes)
+
+    Total plated holes count 34
+
+
+Drill file 'ParaMETEO-reset-adapter-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
